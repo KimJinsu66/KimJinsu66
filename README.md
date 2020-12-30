@@ -4,6 +4,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KimJinsu66/KimJinsu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
