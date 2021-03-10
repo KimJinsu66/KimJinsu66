@@ -4,6 +4,13 @@
 
 ![KimJinsu66's github stats](https://github-readme-stats.vercel.app/api?username=KimJinsu66&count_private=true&show_icons=true&theme=radical)
 
+My site(Blog)
+
+[Velog](https://velog.io/@jinsu6688)
+[TISTORY](https://jinsukim66.tistory.com/)
+[엔지니어가 되기 위해 읽으면 좋은 사이트, 프로그래밍 참고 사이트 모음집](https://jinsukim66.tistory.com/399)
+[엔지니어가 되기 위해 읽은 책과 앞으로 읽어나갈 책(프로그래밍 책 포함)](https://jinsukim66.tistory.com/400)
+
 <!--
 **KimJinsu66/KimJinsu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
