@@ -23,7 +23,7 @@
 
 ### 📊 My GitHub Stats
 
-![KimJinsu66's github stats](https://github-readme-stats.vercel.app/api?username=KimJinsu66&count_private=true&show_icons=true&theme=radical)
+![KimJinsu66's github stats](https://github-readme-stats.vercel.app/api?username=KimJinsu66&show_icons=true&theme=radical&count_private=true)
 
 
 
